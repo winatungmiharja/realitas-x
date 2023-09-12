@@ -1,4 +1,4 @@
-4# Realitas X
+# Realitas X
 
 ## Tugas 1
 
