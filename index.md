@@ -2,22 +2,11 @@
 layout: default
 ---
 
-# Realitas X
+## Job Simulator
 
-## Tugas 1
-
-- Mencoba Aplikasi VR dan memberi ulasan
-- Aplikasi yang dipilih **Job Simulator**
-
-## Daftar Isi
-
-> - [Tentang Job Simulator](#title--repository-name)
-
-## Tentang Job Simulator
-
-<div style='display:flex;justify-content: center;padding: 1em 0'>
+<div style='display:flex;justify-content: center;padding: 2em 0;background-color : #5b7f98; border-radius: 1em; margin-bottom:1em'>
     <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/192f516d-d557-415f-a7b0-802c3c511ee7' 
-    width='80%'/>
+    width='60%'/>
 </div>
 
 Permainan ini merupakan permainan yang melakukan simulasi mengenai seperti apa _dunia_ di tahun 2050.
@@ -42,7 +31,7 @@ Jadi mari ikuti perjalanan saya memainkan game ini🔥.
 
 Ketika di awal game, kita ditempatkan di sebuah museum. Karena ceritanya manusia sudah sangat _rare_ dan disekeliling kita adalah robot.
 
-<div style='display:flex;justify-content: center'>
+<div style='display:flex;justify-content: center;padding-bottom: 1em;background-color : #5b7f98'>
     <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/43f313dc-c65d-4e23-85b0-27f65dbfaf26' 
     width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
      <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/a54fea79-2be1-454d-8489-bfa82c3bb1e3' 
@@ -51,160 +40,272 @@ Ketika di awal game, kita ditempatkan di sebuah museum. Karena ceritanya manusia
 Dan setelah itu, kita akan ditawarkan **4 kaset** untuk bermain sesuai dengan profesi yang saya sebutkan tadi. Setelah kita ambil, kita bisa memasukkan kedalam layar nya dan menarik lever nya.
 
 
-<div style='display:flex;justify-content: center'>
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
     <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/b1da93ff-9408-46d3-99aa-4989d4453624' 
     width='50%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
 </div>
 
 
-> Terdapat mode unik dalam game ini, jika kita melakukan _crouch_, ternyata terdapat mode yang lebih pendek
-> jika yang bermain adalah anak kecil. Super _neat_ ✨✨!
+> Terdapat mode unik dalam game ini, jika kita melakukan _crouch_, ternyata terdapat mode yang lebih pendek jika yang bermain adalah anak kecil. Super _neat_ ✨✨!
 
-<div style='display:flex;justify-content: center'>
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
     <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/c3bdd954-6112-47d2-b9fe-3422eb87fa88' 
     width='50%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
 </div>
 
 ### Automotive Mechanic
 
-![com owlchemylabs jobsimulator-20230912-164303](https://github.com/winatungmiharja/realitas-x/assets/64743796/08b8e36c-877d-4020-a0d1-79ff039ce444)
-
 Opsi pekerjaan pertama yang saya mainkan adalah sebagai tukang reparsi mobil di bengkel. Kita disuruh untuk menarik rantai besi yang otomatis akan memulai _task-task_ kita.
 
-![com owlchemylabs jobsimulator-20230912-161907](https://github.com/winatungmiharja/realitas-x/assets/64743796/29d5e4ee-81ac-4c6f-bbab-53c35c41a4d3)
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/01916e24-ce8a-4131-a17a-a158080055a7' 
+    width='50%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div>
 
 pada pekerjaan ini, kebanyakan tugas dan interaksi kita adalah membantu orang-orang yang datang ke bengkel untuk melakukan reparasi.
 Pekerjaan yang perlu kita lakukan biasanya dijelaskan pada papan yang _floating_ di ujung ruangan.
 
-![com owlchemylabs jobsimulator-20230912-163257](https://github.com/winatungmiharja/realitas-x/assets/64743796/5216a14f-6330-47c7-9c00-45b9d6485cfa)
+Salah satu contoh reparasi yang saya lakukan bisanya mengganti atau mengisi oli mobil. Ada juga pekerjaan-pekerjaan yang mengharuskan kita untuk melihat mobil dari _pov_ yang lain.
 
-Salah satu contoh reparasi yang saya lakukan bisanya mengganti atau mengisi oli mobil
-
-![com owlchemylabs jobsimulator-20230912-162018](https://github.com/winatungmiharja/realitas-x/assets/64743796/fe8c1ccd-1a20-41d9-be0d-c7111055dd31)
-
-Ada juga pekerjaan-pekerjaan yang mengharuskan kita untuk melihat mobil dari _pov_ yang lain.
-
-![com owlchemylabs jobsimulator-20230912-163416](https://github.com/winatungmiharja/realitas-x/assets/64743796/d632f6ff-6901-4957-b4ea-3c6aa9ea3f79)
-![com owlchemylabs jobsimulator-20230912-163344](https://github.com/winatungmiharja/realitas-x/assets/64743796/b4508c3b-0ead-48c0-9700-25180cd49c52)
+<div style='display:flex;justify-content: center;'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/3251d336-da01-4b15-a98d-d14f3042d908' 
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+     <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/5a03cc93-c19e-4cd5-bddc-6a857c047881' 
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div>  
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/94b42cdc-d218-4e34-ae01-c3e6f19865c4' 
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+     <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/11022f8d-1911-425c-9281-ed4bc7a6c253' 
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div> 
 
 Sepanjang permainan, kita bisa mendengar jokes-jokes dari si robot sendiri. Bahkan juga ada _task-task_ yang pengerjaannya lumayan konyol. Contohnya yaitu seperti ini.
 
-![com owlchemylabs jobsimulator-20230912-163506](https://github.com/winatungmiharja/realitas-x/assets/64743796/4e7bf594-5fcb-4e9b-855f-406b12a2435e)
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/8af679b9-2c87-4032-8270-05bd8a00fb42' 
+    width='50%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div>
 
-Setelah pekerjaan selesai, kita bisa melakukan print _receipt_ dan diberikan ke pelanggan
+Setelah pekerjaan selesai, kita bisa melakukan print _receipt_ dan diberikan ke pelanggan. Kita juga bisa memberikan kupon diskon
 
-![com owlchemylabs jobsimulator-20230912-162246](https://github.com/winatungmiharja/realitas-x/assets/64743796/f1fd80b4-8102-4b61-9350-beb8328939cf)
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/1c129771-020e-4dc8-b52b-f0c04c04f17e' 
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+     <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/60369d4a-762c-4094-9a0c-07c72f3d1193' 
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div> 
 
 > Ada basketball hoops di ujung ruangan, memungkinkan kita untuk melempar-lempar barang didalamnya🏀🏀
 
-![com owlchemylabs jobsimulator-20230912-163215](https://github.com/winatungmiharja/realitas-x/assets/64743796/a8a3aea1-9e44-491d-9378-d2df9d5cd3b8)
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/6f8f3a59-4e01-4d33-a3f8-a2bd0dbfe7fa' 
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+     <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/d50bdec4-89aa-400d-9c98-bb8def2dc587' 
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div> 
 
 > Kita bisa memutar radio yang ada dibelakang _workstation_
 
-![com owlchemylabs jobsimulator-20230912-162158](https://github.com/winatungmiharja/realitas-x/assets/64743796/a2a168ba-76b8-4244-bbbe-bde595711ac6)
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/58a804aa-675c-474c-85b8-899c4c9a7338' 
+    width='50%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div>
 
-> Jokes dari salah satu pelanggan, untuk meminta secangkir oli untuk dirinya. Bagi saya cukup _hilarious_ yaa WKKW
+> Jokes dari salah satu pelanggan, untuk meminta secangkir oli untuk dirinya  (mau diminum). Bagi saya cukup _hilarious_ yaa jokesnya WKKW
 
-![com owlchemylabs jobsimulator-20230912-164142](https://github.com/winatungmiharja/realitas-x/assets/64743796/852be2d7-c033-4603-bbe4-5a927b333089)
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/193f83ee-0ed3-486c-8172-72d5a69d0720' 
+    width='50%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div>
 
 ### Convenience Store Clerk
 
-![com owlchemylabs jobsimulator-20230912-164801](https://github.com/winatungmiharja/realitas-x/assets/64743796/fd658730-36e0-4c75-b9dc-8a0eb7d8e40e)
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/1fb97c8c-88b3-4307-a1bb-d5fbaed816fe'
+    width='90%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div>
 
 Opsi pekerjaan kedua yang saya mainkan adalah sebagai penjaga minimarket. Kita disuruh untuk menarik tiket untuk menyambut setiap pelanggan yang datang di minimarket.
 
-![com owlchemylabs jobsimulator-20230912-164518](https://github.com/winatungmiharja/realitas-x/assets/64743796/04c26b8a-6710-4868-a3a5-8f1ab7e5188a)
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/ce7121b8-3a0c-4f13-a57b-ece97950623c'
+    width='50%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div>
+
 
 Beberapa tugas yang diberikan yaitu membuat hot dog, membuat minuman, menjual koran dan permen karet.
 
-![com owlchemylabs jobsimulator-20230912-164910](https://github.com/winatungmiharja/realitas-x/assets/64743796/838779ff-4591-4ca9-baf1-007b1ea11116)
-![com owlchemylabs jobsimulator-20230912-165134](https://github.com/winatungmiharja/realitas-x/assets/64743796/072ea965-ca4c-4e60-82e7-f8239953a0cb)
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/113c51e2-1907-477a-b415-a9af5a681c71'
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+     <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/d58a7ada-aaf2-4b6b-a2f7-6a24ea80081b' 
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div> 
 
 Setelah mengikuti kemauan pengunjung, kita melakuakn scan terhadap barang-barangnya dan kita masukkan ke dalam _paper bag_. Setelah itu kita buka _cash register_ dan menerima uang dari customer
 
-![com owlchemylabs jobsimulator-20230912-164937](https://github.com/winatungmiharja/realitas-x/assets/64743796/23be999e-d89a-4484-99cd-76bffd4f7c55)
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/fd66322e-c1d1-40c4-9159-57a688db42ac'
+    width='50%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div>
+
 
 > Ada satu task dimana ada Ibu dan Anak yang datang berbelanja. Namun pada tengah-tengah berbelanja, sang Ibu pergi ke toilet dan si Anak merengek dan meminta permen secara paksa
 
-![com owlchemylabs jobsimulator-20230912-165556](https://github.com/winatungmiharja/realitas-x/assets/64743796/b5133240-3cf3-46b9-a760-4d78dbe87944)
-![com owlchemylabs jobsimulator-20230912-165615](https://github.com/winatungmiharja/realitas-x/assets/64743796/8d450748-2781-4657-907f-7c6aa0286b86)
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/39fdc478-53d7-4b84-8162-1c13f2f4ac18'
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+     <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/d3abba99-9e1b-4396-80ac-d3014b45ae89' 
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div> 
 
 > Interaksi yang memerlukan gerakan yang lebih kompleks yaitu ketika kita disuruh untuk nge-_scratch_ kupon _lottery_ seorang nenek-nenek
 
-![com owlchemylabs jobsimulator-20230912-165323](https://github.com/winatungmiharja/realitas-x/assets/64743796/c36356ef-8f52-42e7-b994-feb39f9ecdfc)
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/c5d0f93b-2fac-464a-8965-01834b792274'
+    width='50%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div>
+
 
 ### Gourmet Chef
 
 Opsi pekerjaan selanjutnya yang saya mainkan yaitu sebagai tukang masak di suatu restaurant. Kita disuruh untuk menarik kertas untuk mengambil setaip pekerjaan yang diberikan.
 
-![com owlchemylabs jobsimulator-20230912-170610](https://github.com/winatungmiharja/realitas-x/assets/64743796/56ef8322-9eb4-468c-b6d0-c539be64a9bc)
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/e9db9d66-a6d3-407c-bc1a-dc97138b55cb'
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+     <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/5bfac1dd-72ca-4d85-9bdd-77f8a64bc8ce' 
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div> 
 
-Beberapa tugas yang diberikan yaitu membuat sup, sandwich, dan berbagai jenis makanan. Setelah memasak dan mempersiapkan makanan di atas piring, kita membunyikan beldan task selesai.
 
-![com owlchemylabs jobsimulator-20230912-171022](https://github.com/winatungmiharja/realitas-x/assets/64743796/c3b34ed1-1667-4590-bc9d-fb2ee619bc16)
+Beberapa tugas yang diberikan yaitu membuat sup, sandwich, dan berbagai jenis makanan. Setelah memasak dan mempersiapkan makanan di atas piring, kita membunyikan bel dan task selesai.
 
-Ada satu task dimana kita kedatangan _food critique_ dan kita harus memasak daging yang diberikan.
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/c385ed2a-c094-4e01-bcf8-edd83d0040fa'
+    width='50%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div>
 
-![com owlchemylabs jobsimulator-20230912-171114](https://github.com/winatungmiharja/realitas-x/assets/64743796/88393b99-8e26-4ab8-a105-2fb7b43f79c3)
 
-Uniknya pada akhir pemberian makanan, kita disuruh untuk menyelipkan uang di piring yang akan diberikan. Dengan harapan kritiknya akan menjadi lebih sedikit🤣
+Ada satu task dimana kita kedatangan _food critique_ dan kita harus memasak daging yang diberikan. Uniknya pada akhir pemberian makanan, kita disuruh untuk menyelipkan uang di piring yang akan diberikan. Dengan harapan kritiknya akan menjadi lebih sedikit🤣
 
-![com owlchemylabs jobsimulator-20230912-171501](https://github.com/winatungmiharja/realitas-x/assets/64743796/bba17fb1-c314-4426-943f-e32c6309c9e9)
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/e1a68180-8af8-495c-ad82-93d8caed6652'
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+     <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/b5b55c64-d3a0-4599-aed3-6e452212e212' 
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div> 
+
+> Kita bisa memutar radio dengan memasukkan CD yang ada disebelah kiri _workstation_
+
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/6231c119-603d-4ffa-8021-f30b8460207b'
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+     <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/07f5e72b-b91b-40db-9f56-93fe4a99cf25' 
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div> 
 
 ### Office Worker
 
-![com owlchemylabs jobsimulator-20230912-171619](https://github.com/winatungmiharja/realitas-x/assets/64743796/87024617-627b-4511-ba1a-fd891aaa1aaa)
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/e870745b-deb8-4b95-ab55-04627c4ea499'
+    width='90%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div>
+
 
 Pekerjaan terakhir yang saya mainkan yaitu menjadi office worker. Seperti biasa kita disuruh untuk menarik kertas untuk memulai setiap pekerjaan.
 
-![com owlchemylabs jobsimulator-20230912-171630](https://github.com/winatungmiharja/realitas-x/assets/64743796/a27ef370-9265-4a02-9cd2-be0ffdcb5c78)
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/34aef041-3aad-4fa7-8dab-aa80d1e267a9'
+    width='50%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div>
+
 
 Pekerjaan ini menurut saya yang memiliki interaksi yang paling bervariasi dibandingkan dengan 3 pekerjaan sebelumnya. Saya akan bahas beberapa yang menurut saya unik ya
 
 Yang pertama, kita disuruh membaca CV _orang-orang_ dan menentukan apakah mereka dipekerjakan atau tidak. Orang eh maksudnya robot yang dipekerjakan akan datang dan berterima kasih kepada kita setelahnya.
 
-![com owlchemylabs jobsimulator-20230912-172027](https://github.com/winatungmiharja/realitas-x/assets/64743796/7e82a302-4c3a-4ae9-92c1-410c31647013)
+Ada juga task dimana kita disuruh untuk memecat orang-orang tersebut. Jika kita memilih untuk memecat orang yang baru kita pekerjakan, dialog orang itu akan seperti 'Padahal saya baru saja bekerja hari ini'. Lumayan membangun cerita ya bagi saya
+
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/85d96312-075e-4842-adbc-d7f11a3a2287'
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+     <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/bbff20ff-0bf1-4051-b009-09be6ddf3705' 
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div>
+
 
 Kedua, bagi saya ini jenius sih. Kita disuruh untuk memasukkan CD kedalam komputer. Namun jika kita memasukkan cd nya, komputernya tidak nyala.
 Jadi kita harus explore sebentar untuk mengetahui bahwa komputer dan monitornya perlu dicolokkan terlebih dahulu kedalam stop kontak
 
-![com owlchemylabs jobsimulator-20230912-172204](https://github.com/winatungmiharja/realitas-x/assets/64743796/5360de06-58d5-4ea2-923e-2d619509c89a)
+
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/5ce99d18-cd99-4cc6-a419-3a4968731316'
+    width='50%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div>
+
 
 disini kita juga berinteraksi dengan mouse dan komputernya layaknya komputer asli.
 
-![com owlchemylabs jobsimulator-20230912-172308](https://github.com/winatungmiharja/realitas-x/assets/64743796/e4391788-9671-4775-ae94-07fea52c0326)
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/1921caf1-4a21-438f-afe9-e7fefcfc34d4'
+    width='50%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div>
 
-Ditengah hari, kita tiba tiba ditawarkan untuk membeli makanan dari vending machine, dan salah satu coworker kita juga meminta dibelikan.
-Kita memakan snack nya dengan mendekati snack tersebut ke mulut kita, dan snack otomatis termakan
 
-![com owlchemylabs jobsimulator-20230912-172440](https://github.com/winatungmiharja/realitas-x/assets/64743796/38b5fa9a-1198-4d94-88a9-94119a30fa5f)
-![com owlchemylabs jobsimulator-20230912-172541](https://github.com/winatungmiharja/realitas-x/assets/64743796/7a44bc3e-0ff0-45b7-b714-5096127872ab)
+Ditengah hari, kita tiba tiba ditawarkan untuk membeli makanan dari vending machine, dan salah satu coworker kita juga meminta dibelikan. Kita memakan snack nya dengan mendekati snack tersebut ke mulut kita, dan snack otomatis termakan. Kita juga bisa minum air, dan juga minum kopi
 
-Kita juga bisa minum air, dan juga minum kopi
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/c07bf70f-6f18-47c3-8eb6-712ddf7a0567'
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+     <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/a29e0f25-bb75-4d61-a6e9-9d4cac33c833' 
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div> 
 
-![com owlchemylabs jobsimulator-20230912-173244](https://github.com/winatungmiharja/realitas-x/assets/64743796/dd656c1b-dda9-4170-a38e-15416c010b4f)
+Ditengah misi-misi yang lain, tiba tiba ada telepon masuk dan kita bisa mengangkat dan mendengar orang di telepon tersebut. Suara dari teleponnya _gradually_ membesar jika kita mendekatkan telepon tersebut ke telinga kita
 
-Ditengah misi-misi yang lain, tiba tiba ada telepon masuk dan kita bisa mengangkat dan mendengar orang di telepon tersebut
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/98328fc3-ab9d-48aa-81b5-ffae02a2fb7c'
+    width='50%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div>
 
-![com owlchemylabs jobsimulator-20230912-172625](https://github.com/winatungmiharja/realitas-x/assets/64743796/17255cb5-39ac-49a5-96bd-03e08cee8d3c)
 
 Ada juga task dimana kita disuruh untuk membuat PPT, layaknya orang kerja. kemudian dipresentasikan di seluruh kantor.
 
-![com owlchemylabs jobsimulator-20230912-172728](https://github.com/winatungmiharja/realitas-x/assets/64743796/8eb40b3b-b5c8-4815-9595-9ae63f172ded)
-![com owlchemylabs jobsimulator-20230912-172814](https://github.com/winatungmiharja/realitas-x/assets/64743796/a0e2f2f1-0a72-4e00-8ef6-09d902b06be3)
-![com owlchemylabs jobsimulator-20230912-172908](https://github.com/winatungmiharja/realitas-x/assets/64743796/b28095a6-5d62-455b-bdc2-a52deab4817c)
+
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/fee49139-989b-4942-b545-cc00f6df7900'
+    width='30%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+     <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/a48bc899-4175-431c-a252-30d2c8bdf05d' 
+    width='30%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+     <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/c74f0016-363d-4ad1-b2d1-fbae2ca46d4e'
+    width='30%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div> 
 
 Kita juga bisa mengetik surat, tapi surat ini _pre-determined_ dan di-print kemudian diberikan ke coworker kita.
 
-![com owlchemylabs jobsimulator-20230912-173108](https://github.com/winatungmiharja/realitas-x/assets/64743796/de380272-34e2-41d1-bd0b-30463aac3024)
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/c9de9f27-1067-4c74-bfa5-280b3d4d134f'
+    width='50%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div>
+
 
 Ada task dimana bos kita menyuruh kita untuk menghancurkan _barang bukti_
 
-![com owlchemylabs jobsimulator-20230912-173410](https://github.com/winatungmiharja/realitas-x/assets/64743796/e7006acd-d9d2-4545-9203-6968870308f8)
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/da70a7aa-f6cb-41cf-9d29-fafbb01101f6'
+    width='50%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div>
+
 
 > Yang menurut saya paling unik, pada akhir hari kita di-_surprise_ dengan kue dan diberikan hadiah karena naik jabatan. Lucu banget😄.
 
-![com owlchemylabs jobsimulator-20230912-173615](https://github.com/winatungmiharja/realitas-x/assets/64743796/fff9090f-a96d-4a94-9b7b-c08c5f75fb29)
-![com owlchemylabs jobsimulator-20230912-173656](https://github.com/winatungmiharja/realitas-x/assets/64743796/d47ed274-1702-4a94-bb99-9cc66b1fe4dc)
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/e4821937-1e2b-4ea6-8e08-b40aa208fc6f'
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+     <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/bd0e3f0e-c7b1-4862-bd3d-f6cfe3e914e7' 
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div> 
 
 ## Kritik dan Saran
