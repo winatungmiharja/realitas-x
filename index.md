@@ -2,12 +2,13 @@
 layout: default
 ---
 
-## Job Simulator
 
 <div style='display:flex;justify-content: center;padding: 2em 0;background-color : #5b7f98; border-radius: 1em; margin-bottom:1em'>
     <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/192f516d-d557-415f-a7b0-802c3c511ee7' 
     width='60%'/>
 </div>
+
+## Job Simulator
 
 Permainan ini merupakan permainan yang melakukan simulasi mengenai seperti apa _dunia_ di tahun 2050.
 Di dunia ini, diprediksikan bahwa semua robot telah menguasai dunia dan kita merupakan satu-satunya manusia.
@@ -31,7 +32,7 @@ Jadi mari ikuti perjalanan saya memainkan game ini🔥.
 
 Ketika di awal game, kita ditempatkan di sebuah museum. Karena ceritanya manusia sudah sangat _rare_ dan disekeliling kita adalah robot.
 
-<div style='display:flex;justify-content: center;padding-bottom: 1em;background-color : #5b7f98'>
+<div style='display:flex;justify-content: center;padding-bottom: 1em;'>
     <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/43f313dc-c65d-4e23-85b0-27f65dbfaf26' 
     width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
      <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/a54fea79-2be1-454d-8489-bfa82c3bb1e3' 
@@ -120,11 +121,6 @@ Setelah pekerjaan selesai, kita bisa melakukan print _receipt_ dan diberikan ke 
 </div>
 
 ### Convenience Store Clerk
-
-<div style='display:flex;justify-content: center;padding-bottom: 1em'>
-    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/1fb97c8c-88b3-4307-a1bb-d5fbaed816fe'
-    width='90%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
-</div>
 
 Opsi pekerjaan kedua yang saya mainkan adalah sebagai penjaga minimarket. Kita disuruh untuk menarik tiket untuk menyambut setiap pelanggan yang datang di minimarket.
 
@@ -308,4 +304,47 @@ Ada task dimana bos kita menyuruh kita untuk menghancurkan _barang bukti_
     width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
 </div> 
 
-## Kritik dan Saran
+## Review
+
+### Interaksi
+
+Jujurly pada awal permainan, sebagai orang yang belum pernah memainkan game vr dan juga belum mengerti fungsi controller nya, agak kebingungan sih. Karena ada dua macam interaksi yang saya lihat, diantaranya :
+
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/e9154cbf-fe8a-4ac8-b780-9be127e347ca'
+    width='90%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div>
+
+
+1. Memegang (menekan tombol grip + trigger + select)
+2. Menunjuk (menekan tombol grip + select)
+
+pada awalnya, karena tidak ada menu tutorial pada game nya, saya menekan tombol trigger untuk semua aksi, dan kesusahan ketika mengerjakan tugas dengan aksi menekan tombol. 
+
+Saya rasa akan lebih baik kalau ada menu tutorial di startup game nya sih.
+### Grafik dan Visual
+
+Grafik dalam game ini memang tidak sekompleks game VR lainnya, namun menurut saya grafik ini lumayan unik=. Perancangan karakter robot nya juga lucu dan kadang menghibur saya sendiri hehe.
+
+Warna yang digunakan dalam game juga _vibrant_ dan enak dipandang. Begitu juga dengan design berbagai poster yang menghiasi ruangan. Poster-poster tersebut diisi dengan kata-kata yang lucu dan relevan sehingga membawa alur cerita menjadi lebih menyatu.
+
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/1fb97c8c-88b3-4307-a1bb-d5fbaed816fe'
+    width='90%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div>
+
+### Alur Cerita
+
+Alur cerita yang diangkat sebenarnya lumayan unik dan konsisten sepanjang game. Apalagi humor-humor nya yang kadang-kadang bisa mengibur juga. Namun bisa dibilang untuk task-task yang diberikan sendiri ini lumayan repetitif. Diantara keempat opsi pekerjaan, saya rasa yang paling tidak repetitif adalah menjadi office worker. Selain itu, sisanya lumayan expected dan beberapa kali misi (3-4 kali) sudah bisa membuat saya bosan.
+
+Saran dari saya yaitu untuk alur cerita nya dibuat lebih dinamis lagi. Permainan ini sebenarnya memberikan kita kebebasan untuk melakukan apapun yang kita mau. Saya rasa beberapa hal berikut bisa membantu menciptakan game yang lebih _replayable_
+
+1.  _Currency_ yang bisa memotivasi kita untuk _do a better job_ yang diintegrasikan dengan adanya tingkat kepuasan pelanggan, semakin lama kita melakukan task, kepuasannya menurun. Sehingga ada urgensi untuk melakukannya secara cepat.
+2. Pelanggan bisa marah jika kita melempari nya dengan benda-benda, dan mempengaruhi kepuasannya juga.
+3. Diberikan opsi untuk mengubah ruangan, dekorasi ruangan, dengan uang yang didapat (_sense of belonging_)
+
+Harapannya agar setiap player yang memainkan game ini akan menghasilkan sesuatu yang berbeda. Untuk saat ini misi nya sudah di pre-determined dan dirandom. 
+
+# Kesimpulan
+
+"Job Simulator" adalah permainan VR yang menghibur dan kreatif yang cocok untuk semua usia. Game ini menawarkan pengalaman yang lucu dan interaktif dalam berbagai pekerjaan yang berbeda. Game ini merupakan pilihan yang yang bagus bagi pemain kasual yang ingin mencoba seperti apa bermain game dalam dunia VR.
