@@ -1,22 +1,26 @@
+---
+layout: default
+---
+
 # Realitas X
 
 ## Tugas 1
 
-* Mencoba Aplikasi VR dan memberi ulasan
-* Aplikasi yang dipilih **Job Simulator**
+- Mencoba Aplikasi VR dan memberi ulasan
+- Aplikasi yang dipilih **Job Simulator**
 
 ## Daftar Isi
 
-> * [Tentang Job Simulator](#title--repository-name)
+> - [Tentang Job Simulator](#title--repository-name)
 
 ## Tentang Job Simulator
 
 ![com owlchemylabs jobsimulator-20230908-152950](https://github.com/winatungmiharja/realitas-x/assets/64743796/129785a5-02b4-4f36-9327-12fe2821d2d9)
 
-Permainan ini merupakan permainan yang melakukan simulasi mengenai seperti apa _dunia_ di tahun 2050. 
+Permainan ini merupakan permainan yang melakukan simulasi mengenai seperti apa _dunia_ di tahun 2050.
 Di dunia ini, diprediksikan bahwa semua robot telah menguasai dunia dan kita merupakan satu-satunya manusia.
 
-Kedatangan kita di dunia ini ditujukan untuk mengerti seperti apa melakukan pekerjaan **manusia pada zaman dahulu**. 
+Kedatangan kita di dunia ini ditujukan untuk mengerti seperti apa melakukan pekerjaan **manusia pada zaman dahulu**.
 Pekerjaan ini terdiri atas 4, yaitu :
 
 - Automotive Mechanic (Tukang Bengkel)
@@ -32,6 +36,7 @@ Saya termasuk orang yang belum pernah memainkan game VR sebelumnya dan pengalama
 Jadi mari ikuti perjalanan saya memainkan game ini🔥.
 
 ### Awal Game
+
 Ketika di awal game, kita ditempatkan di sebuah museum. Karena ceritanya manusia sudah sangat _rare_ dan disekeliling kita adalah robot.
 
 ![com owlchemylabs jobsimulator-20230912-170535](https://github.com/winatungmiharja/realitas-x/assets/64743796/41f381d9-bce5-45bd-8328-9e0defadbda7)
@@ -48,13 +53,14 @@ Dan setelah itu, kita akan ditawarkan **4 kaset** untuk bermain sesuai dengan pr
 ![com owlchemylabs jobsimulator-20230912-164425](https://github.com/winatungmiharja/realitas-x/assets/64743796/019a1854-5c35-43d1-8628-56344f9843c9)
 
 ### Automotive Mechanic
+
 ![com owlchemylabs jobsimulator-20230912-164303](https://github.com/winatungmiharja/realitas-x/assets/64743796/08b8e36c-877d-4020-a0d1-79ff039ce444)
 
 Opsi pekerjaan pertama yang saya mainkan adalah sebagai tukang reparsi mobil di bengkel. Kita disuruh untuk menarik rantai besi yang otomatis akan memulai _task-task_ kita.
 
 ![com owlchemylabs jobsimulator-20230912-161907](https://github.com/winatungmiharja/realitas-x/assets/64743796/29d5e4ee-81ac-4c6f-bbab-53c35c41a4d3)
 
-pada pekerjaan ini, kebanyakan tugas dan interaksi kita adalah membantu orang-orang yang datang ke bengkel untuk melakukan reparasi. 
+pada pekerjaan ini, kebanyakan tugas dan interaksi kita adalah membantu orang-orang yang datang ke bengkel untuk melakukan reparasi.
 Pekerjaan yang perlu kita lakukan biasanya dijelaskan pada papan yang _floating_ di ujung ruangan.
 
 ![com owlchemylabs jobsimulator-20230912-163257](https://github.com/winatungmiharja/realitas-x/assets/64743796/5216a14f-6330-47c7-9c00-45b9d6485cfa)
@@ -89,6 +95,7 @@ Setelah pekerjaan selesai, kita bisa melakukan print _receipt_ dan diberikan ke 
 ![com owlchemylabs jobsimulator-20230912-164142](https://github.com/winatungmiharja/realitas-x/assets/64743796/852be2d7-c033-4603-bbe4-5a927b333089)
 
 ### Convenience Store Clerk
+
 ![com owlchemylabs jobsimulator-20230912-164801](https://github.com/winatungmiharja/realitas-x/assets/64743796/fd658730-36e0-4c75-b9dc-8a0eb7d8e40e)
 
 Opsi pekerjaan kedua yang saya mainkan adalah sebagai penjaga minimarket. Kita disuruh untuk menarik tiket untuk menyambut setiap pelanggan yang datang di minimarket.
@@ -114,6 +121,7 @@ Setelah mengikuti kemauan pengunjung, kita melakuakn scan terhadap barang-barang
 ![com owlchemylabs jobsimulator-20230912-165323](https://github.com/winatungmiharja/realitas-x/assets/64743796/c36356ef-8f52-42e7-b994-feb39f9ecdfc)
 
 ### Gourmet Chef
+
 Opsi pekerjaan selanjutnya yang saya mainkan yaitu sebagai tukang masak di suatu restaurant. Kita disuruh untuk menarik kertas untuk mengambil setaip pekerjaan yang diberikan.
 
 ![com owlchemylabs jobsimulator-20230912-170610](https://github.com/winatungmiharja/realitas-x/assets/64743796/56ef8322-9eb4-468c-b6d0-c539be64a9bc)
@@ -144,7 +152,7 @@ Yang pertama, kita disuruh membaca CV _orang-orang_ dan menentukan apakah mereka
 
 ![com owlchemylabs jobsimulator-20230912-172027](https://github.com/winatungmiharja/realitas-x/assets/64743796/7e82a302-4c3a-4ae9-92c1-410c31647013)
 
-Kedua, bagi saya ini jenius sih. Kita disuruh untuk memasukkan CD kedalam komputer. Namun jika kita memasukkan cd nya, komputernya tidak nyala. 
+Kedua, bagi saya ini jenius sih. Kita disuruh untuk memasukkan CD kedalam komputer. Namun jika kita memasukkan cd nya, komputernya tidak nyala.
 Jadi kita harus explore sebentar untuk mengetahui bahwa komputer dan monitornya perlu dicolokkan terlebih dahulu kedalam stop kontak
 
 ![com owlchemylabs jobsimulator-20230912-172204](https://github.com/winatungmiharja/realitas-x/assets/64743796/5360de06-58d5-4ea2-923e-2d619509c89a)
@@ -153,7 +161,7 @@ disini kita juga berinteraksi dengan mouse dan komputernya layaknya komputer asl
 
 ![com owlchemylabs jobsimulator-20230912-172308](https://github.com/winatungmiharja/realitas-x/assets/64743796/e4391788-9671-4775-ae94-07fea52c0326)
 
-Ditengah hari, kita tiba tiba ditawarkan untuk membeli makanan dari vending machine, dan salah satu coworker kita juga meminta dibelikan. 
+Ditengah hari, kita tiba tiba ditawarkan untuk membeli makanan dari vending machine, dan salah satu coworker kita juga meminta dibelikan.
 Kita memakan snack nya dengan mendekati snack tersebut ke mulut kita, dan snack otomatis termakan
 
 ![com owlchemylabs jobsimulator-20230912-172440](https://github.com/winatungmiharja/realitas-x/assets/64743796/38b5fa9a-1198-4d94-88a9-94119a30fa5f)
@@ -162,7 +170,6 @@ Kita memakan snack nya dengan mendekati snack tersebut ke mulut kita, dan snack 
 Kita juga bisa minum air, dan juga minum kopi
 
 ![com owlchemylabs jobsimulator-20230912-173244](https://github.com/winatungmiharja/realitas-x/assets/64743796/dd656c1b-dda9-4170-a38e-15416c010b4f)
-
 
 Ditengah misi-misi yang lain, tiba tiba ada telepon masuk dan kita bisa mengangkat dan mendengar orang di telepon tersebut
 
@@ -188,4 +195,3 @@ Ada task dimana bos kita menyuruh kita untuk menghancurkan _barang bukti_
 ![com owlchemylabs jobsimulator-20230912-173656](https://github.com/winatungmiharja/realitas-x/assets/64743796/d47ed274-1702-4a94-bb99-9cc66b1fe4dc)
 
 ## Kritik dan Saran
-
