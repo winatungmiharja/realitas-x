@@ -15,7 +15,10 @@ layout: default
 
 ## Tentang Job Simulator
 
-![com owlchemylabs jobsimulator-20230908-152950](https://github.com/winatungmiharja/realitas-x/assets/64743796/129785a5-02b4-4f36-9327-12fe2821d2d9)
+<div style='display:flex;justify-content: center;padding: 1em 0'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/192f516d-d557-415f-a7b0-802c3c511ee7' 
+    width='80%'/>
+</div>
 
 Permainan ini merupakan permainan yang melakukan simulasi mengenai seperti apa _dunia_ di tahun 2050.
 Di dunia ini, diprediksikan bahwa semua robot telah menguasai dunia dan kita merupakan satu-satunya manusia.
@@ -39,18 +42,28 @@ Jadi mari ikuti perjalanan saya memainkan game ini🔥.
 
 Ketika di awal game, kita ditempatkan di sebuah museum. Karena ceritanya manusia sudah sangat _rare_ dan disekeliling kita adalah robot.
 
-![com owlchemylabs jobsimulator-20230912-170535](https://github.com/winatungmiharja/realitas-x/assets/64743796/41f381d9-bce5-45bd-8328-9e0defadbda7)
-
-![com owlchemylabs jobsimulator-20230912-161734](https://github.com/winatungmiharja/realitas-x/assets/64743796/2adafb28-e709-4890-aae9-e511ea2a399c)
-
+<div style='display:flex;justify-content: center'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/43f313dc-c65d-4e23-85b0-27f65dbfaf26' 
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+     <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/a54fea79-2be1-454d-8489-bfa82c3bb1e3' 
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div>                                                                                                                                     
 Dan setelah itu, kita akan ditawarkan **4 kaset** untuk bermain sesuai dengan profesi yang saya sebutkan tadi. Setelah kita ambil, kita bisa memasukkan kedalam layar nya dan menarik lever nya.
 
-![com owlchemylabs jobsimulator-20230912-161748](https://github.com/winatungmiharja/realitas-x/assets/64743796/6c4beadd-9138-4f85-b8c9-fbb7ecd38f61)
+
+<div style='display:flex;justify-content: center'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/b1da93ff-9408-46d3-99aa-4989d4453624' 
+    width='50%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div>
+
 
 > Terdapat mode unik dalam game ini, jika kita melakukan _crouch_, ternyata terdapat mode yang lebih pendek
 > jika yang bermain adalah anak kecil. Super _neat_ ✨✨!
 
-![com owlchemylabs jobsimulator-20230912-164425](https://github.com/winatungmiharja/realitas-x/assets/64743796/019a1854-5c35-43d1-8628-56344f9843c9)
+<div style='display:flex;justify-content: center'>
+    <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/c3bdd954-6112-47d2-b9fe-3422eb87fa88' 
+    width='50%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+</div>
 
 ### Automotive Mechanic
 
