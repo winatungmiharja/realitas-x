@@ -2,6 +2,8 @@
 layout: default
 ---
 
+- [Kembali](/realitas-x)
+
 # Tugas 1 - Mencoba Aplikasi VR
 
 <div style='display:flex;justify-content: center;padding: 2em 0;background-color : #5b7f98; border-radius: 1em; margin-bottom:1em'>
@@ -332,3 +334,5 @@ Harapannya agar setiap player yang memainkan game ini akan menghasilkan sesuatu 
 # Kesimpulan
 
 "Job Simulator" adalah permainan VR yang menghibur dan kreatif yang cocok untuk semua usia. Game ini menawarkan pengalaman yang lucu dan interaktif dalam berbagai pekerjaan yang berbeda. Game ini merupakan pilihan yang yang bagus bagi pemain kasual yang ingin mencoba seperti apa bermain game dalam dunia VR.
+
+- [Kembali](/realitas-x)

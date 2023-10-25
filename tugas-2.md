@@ -2,6 +2,8 @@
 layout: default
 ---
 
+- [Kembali](/realitas-x)
+
 # Tugas 2 - Mencoba Aplikasi AR
 
 <div style='display:flex;justify-content: center;background-color : #5b7f98; border-radius: 1em; margin-bottom:1em; overflow : hidden'>
@@ -116,3 +118,5 @@ Selain library musik yang banyak dan bisa juga import music dari ekxternal. Apli
 # Kesimpulan
 
 Sayangnya untuk review kali ini saya tidak memiliki keyboard fisik yang bisa disambungin, kalau ada tentunya akan tambah seru ya, Tapi sejauh ini bisa dibilang "Piano Vision" adalah aplikasi AR yang menawarkan pengalaman unik bermain piano. Apakah dengan menggunakan aplikasi ini _muscle memory_ saya yang hilang jadi kembali? bisa dibilang kembali 10%. Saya rasa aplikasi ini membuat belajar piano itu kurva nya gak se 'steep' itu, dan belajar piano sebenarnya jadi lebih mudah.
+
+- [Kembali](/realitas-x)
