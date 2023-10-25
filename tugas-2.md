@@ -58,7 +58,9 @@ Kalau biasanya kita pemula ketika bermain piano itu ada namanya belajar _fingeri
 
 Ya, jadi untuk latihan yang diberikan aplikasi ini sebenarnya adalah latihan fingering tersebut, dengan pilihan scale yang beragam
 
-https://github.com/winatungmiharja/realitas-x/assets/64743796/71690e5d-610c-451b-b4cd-99e5bdb6ff6
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+    <video src="https://github.com/winatungmiharja/realitas-x/assets/64743796/71690e5d-610c-451b-b4cd-99e5bdb6ff67" width='50%' style='border: 1px solid #DDDDDD; padding: 0.75em' controls="true"></video>
+</div>
 
 Bisa dilihat jari-jari saya yang sudah usang dan kaku agak kesusahan menekan tuts nya, terlebih saya tidak bisa merasakan permukaannya benda dan juga hand tracking yang kadang suka cari gara-gara membuat saya sangat kesusahan untuk menyelesaikan misi sederhana ini
 
@@ -70,10 +72,9 @@ Pada bagian ini kita bisa memilih musik dengan berbagai level, dimana level 1-4 
 
 <div style='display:flex;justify-content: center;padding-bottom: 1em'>
     <img src='https://github.com/winatungmiharja/realitas-x/assets/64743796/675fd6b9-9af4-4dee-aa14-f4ba27445674' 
-    width='50%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+    width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em'/>
+     <video src='https://github.com/winatungmiharja/realitas-x/assets/64743796/03b22e1e-80af-4046-bd3e-02e42732001b' width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em' controls="true"></video>
 </div>
-
-https://github.com/winatungmiharja/realitas-x/assets/64743796/03b22e1e-80af-4046-bd3e-02e42732001b
 
 di bagian bawah juga kita dikasi semacam toolbar untuk mengaktifkan metronome, kecepan main, temp, dan sebagainya
 
@@ -89,12 +90,12 @@ Tujuan dari aplikasi piano vision ini salah satunya yaitu membangun _muscle memo
 Untuk menghadapi hal ini, Piano Vision memberikan fitur namanya **Memory Engine**. Disini kita akan berlatih dua tahap
 
 - memainkan lagu yang dipilih hanya 1 tangan secara berulang-ulang
+- memainkan lagu yang bar nya dihilangkan
 
-https://github.com/winatungmiharja/realitas-x/assets/64743796/ed16d6d5-85bd-416e-b9fa-8a25fa0dadd9
-
-- memainkan lagu yang petunjuk bar nya dihilangkan
-
-https://github.com/winatungmiharja/realitas-x/assets/64743796/ba083f00-ee99-449a-88b0-90f443325375
+<div style='display:flex;justify-content: center;padding-bottom: 1em'>
+     <video src='https://github.com/winatungmiharja/realitas-x/assets/64743796/ed16d6d5-85bd-416e-b9fa-8a25fa0dadd9' width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em' controls="true"></video>
+     <video src='https://github.com/winatungmiharja/realitas-x/assets/64743796/ba083f00-ee99-449a-88b0-90f443325375' width='45%' style='border: 1px solid #DDDDDD; padding: 0.75em' controls="true"></video>
+</div>
 
 ## Review
 
